@@ -27,3 +27,10 @@
 ### Теория вкратце  
 Мы исследуем документы и их цитируемость. Для анализа данных в данной работе используется теория графов, с которой связано рассматриваемое понятие **PageRank**.    
 PageRank - алгоритм, с помощью которого мы можем определить "важные" документы - такие документы, на которые ссылаются чаще всего другие "выжные" документы. 
+  
+### Результаты  
+![math_graph](visualization/math_graph.png)  
+![biology_graph](visualization/bio_graph.png)  
+![CS_graph](visualization/CS_graph.png)  
+![physics_graph](visualization/physics_graph.png)  
+![chemistry_graph](visualization/chemistry_graph.png)  
